@@ -1,1 +1,1 @@
-# movie recommedation project(python jupyter notebook ) 
+# movie recommedation project(python) 
